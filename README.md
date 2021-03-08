@@ -6,4 +6,4 @@ K-medoids algorith
   >PAM
   >CLARA
   >CLARANS
-Packages required for K-medoids
+what are Packages required for K-medoids
